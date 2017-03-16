@@ -1,0 +1,1093 @@
+newmtl RoofPlane_1
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd rooftile.color.9.jpg
+  bump -bm 0.5 rooftile.bump.jpg
+newmtl Facade_13
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_8tiles.jpg
+  bump -bm 1 ven.3stories_8tiles.bump.jpg
+ map_Ks ven.3stories_8tiles.bump.jpg
+newmtl Facade_26
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_8tiles.jpg
+  bump -bm 1 ven.2stories_8tiles.bump.jpg
+ map_Ks ven.2stories_8tiles.bump.jpg
+newmtl Facade_9
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_4tiles.jpg
+  bump -bm 1 ven.3stories_4tiles.bump.jpg
+ map_Ks ven.3stories_4tiles.bump.jpg
+newmtl Facade_15
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.4stories_3tiles.jpg
+  bump -bm 1 ven.4stories_3tiles.bump.jpg
+ map_Ks ven.4stories_3tiles.bump.jpg
+newmtl FlatRoofTexture_4
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd flatroof2.png
+newmtl Facade_11
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_5tiles.jpg
+  bump -bm 1 ven.3stories_5tiles.bump.jpg
+ map_Ks ven.3stories_5tiles.bump.jpg
+newmtl Facade_7
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_3tiles.jpg
+  bump -bm 1 ven.2stories_3tiles.bump.jpg
+ map_Ks ven.2stories_3tiles.bump.jpg
+newmtl Railing_7
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.3stories_5tiles.jpg
+newmtl Railing_5
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.2stories_3tiles.jpg
+newmtl Railing_6
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.3stories_4tiles.jpg
+newmtl Facade_16
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.4stories_1tiles.jpg
+  bump -bm 1 ven.4stories_1tiles.bump.jpg
+ map_Ks ven.4stories_1tiles.bump.jpg
+newmtl FlatRoofTexture_6
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd flatroof4.png
+newmtl Railing_8
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.4stories_1tiles.jpg
+newmtl Facade_17
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.4stories_1tiles.jpg
+  bump -bm 1 ven.4stories_1tiles.bump.jpg
+ map_Ks ven.4stories_1tiles.bump.jpg
+newmtl Railing_10
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.3stories_3tiles.jpg
+newmtl FacadeColor_4
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.4stories_5tiles.jpg
+newmtl model_material_18_13_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture6_1.png
+ map_d texture6_1.png
+newmtl model_material_19_14_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture7_1.png
+ map_d texture7_1.png
+newmtl Facade_32
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_5tiles.jpg
+  bump -bm 1 ven.3stories_5tiles.bump.jpg
+ map_Ks ven.3stories_5tiles.bump.jpg
+newmtl Facade_29
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_3tiles.jpg
+  bump -bm 1 ven.3stories_3tiles.bump.jpg
+ map_Ks ven.3stories_3tiles.bump.jpg
+newmtl Facade_35
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_6tiles.jpg
+  bump -bm 1 ven.2stories_6tiles.bump.jpg
+ map_Ks ven.2stories_6tiles.bump.jpg
+newmtl Facade_37
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_7tiles.jpg
+  bump -bm 1 ven.2stories_7tiles.bump.jpg
+ map_Ks ven.2stories_7tiles.bump.jpg
+newmtl Facade_34
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_7tiles.jpg
+  bump -bm 1 ven.3stories_7tiles.bump.jpg
+ map_Ks ven.3stories_7tiles.bump.jpg
+newmtl ParkGround
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd park_bright.png
+newmtl Facade_28
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.4stories_4tiles.jpg
+  bump -bm 1 ven.4stories_4tiles.bump.jpg
+ map_Ks ven.4stories_4tiles.bump.jpg
+newmtl Walkway
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd streets.color.reddish.jpg
+  bump -bm 0.3 streets.bump_1.jpg
+newmtl Facade_12
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_6tiles.jpg
+  bump -bm 1 ven.3stories_6tiles.bump.jpg
+ map_Ks ven.3stories_6tiles.bump.jpg
+newmtl Facade_6
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_5tiles.jpg
+  bump -bm 1 ven.2stories_5tiles.bump.jpg
+ map_Ks ven.2stories_5tiles.bump.jpg
+newmtl PlatformTop
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd streets.color.bright.jpg
+  bump -bm 0.5 streets.bump.jpg
+newmtl PlatformSides
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd base.1.jpg
+newmtl Facade
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_8tiles.jpg
+  bump -bm 1 ven.3stories_8tiles.bump.jpg
+ map_Ks ven.3stories_8tiles.bump.jpg
+newmtl RoofPlane
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd rooftile.color.4.jpg
+  bump -bm 0.5 rooftile.bump.jpg
+newmtl Railing_13
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.4stories_4tiles.jpg
+newmtl model_material_13_3_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture7.jpg
+newmtl Facade_36
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.4stories_5tiles.jpg
+  bump -bm 1 ven.4stories_5tiles.bump.jpg
+ map_Ks ven.4stories_5tiles.bump.jpg
+newmtl model_material_14_9_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture8.jpg
+newmtl model_material_16_11_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture5.png
+ map_d texture5.png
+newmtl model_material_17_12_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture9.jpg
+newmtl model_material_15_10_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture4.png
+ map_d texture4.png
+newmtl model_material_7_20_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture2.png
+ map_d texture2.png
+newmtl Facade_20
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_2tiles.jpg
+  bump -bm 1 ven.2stories_2tiles.bump.jpg
+ map_Ks ven.2stories_2tiles.bump.jpg
+newmtl FlatRoofTexture_8
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd flatroof3.png
+newmtl Railing_11
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.2stories_2tiles.jpg
+newmtl model_material_22_7_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture8_1.png
+ map_d texture8_1.png
+newmtl model_material_8_21_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture4_1.jpg
+newmtl model_material_1_2_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture0.jpg
+newmtl model_material_21_24SG
+    Kd 0.14 0.14 0.14
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+newmtl Facade_30
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_5tiles.jpg
+  bump -bm 1 ven.2stories_5tiles.bump.jpg
+ map_Ks ven.2stories_5tiles.bump.jpg
+newmtl model_material_4_22_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture0_1.png
+ map_d texture0_1.png
+newmtl model_material_12_6_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture3_1.png
+ map_d texture3_1.png
+newmtl model_material_6_19_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture1.png
+ map_d texture1.png
+newmtl model_material_5_5_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture3.jpg
+newmtl FacadeColor_3
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.2stories_8tiles.jpg
+newmtl Facade_19
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_3tiles.jpg
+  bump -bm 1 ven.3stories_3tiles.bump.jpg
+ map_Ks ven.3stories_3tiles.bump.jpg
+newmtl FlatRoofTexture_5
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd flatroof7.png
+newmtl Facade_27
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_8tiles.jpg
+  bump -bm 1 ven.2stories_8tiles.bump.jpg
+ map_Ks ven.2stories_8tiles.bump.jpg
+newmtl Facade_14
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.4stories_3tiles.jpg
+  bump -bm 1 ven.4stories_3tiles.bump.jpg
+ map_Ks ven.4stories_3tiles.bump.jpg
+newmtl FacadeColor_2
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.4stories_3tiles.jpg
+newmtl RoofPlane_5
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd rooftile.color.3.jpg
+  bump -bm 0.5 rooftile.bump.jpg
+newmtl Facade_4
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_9tiles.jpg
+  bump -bm 1 ven.3stories_9tiles.bump.jpg
+ map_Ks ven.3stories_9tiles.bump.jpg
+newmtl FlatRoofTexture_2
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd flatroof1.png
+newmtl Railing_2
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.3stories_8tiles.jpg
+newmtl RoofPlane_3
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd rooftile.color.1.jpg
+  bump -bm 0.5 rooftile.bump.jpg
+newmtl CityEngineMaterial
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+newmtl Railing_4
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.2stories_5tiles.jpg
+newmtl RoofPlane_7
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd rooftile.color.2.jpg
+  bump -bm 0.5 rooftile.bump.jpg
+newmtl Facade_31
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_4tiles.jpg
+  bump -bm 1 ven.3stories_4tiles.bump.jpg
+ map_Ks ven.3stories_4tiles.bump.jpg
+newmtl Facade_33
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.4stories_4tiles.jpg
+  bump -bm 1 ven.4stories_4tiles.bump.jpg
+ map_Ks ven.4stories_4tiles.bump.jpg
+newmtl FlatRoofTexture_7
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd flatroof9.png
+newmtl Facade_3
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_6tiles.jpg
+  bump -bm 1 ven.2stories_6tiles.bump.jpg
+ map_Ks ven.2stories_6tiles.bump.jpg
+newmtl FlatRoofTexture_3
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd flatroof6.png
+newmtl Railing_3
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.2stories_6tiles.jpg
+newmtl FacadeColor
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.3stories_9tiles.jpg
+newmtl Facade_2
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_7tiles.jpg
+  bump -bm 1 ven.3stories_7tiles.bump.jpg
+ map_Ks ven.3stories_7tiles.bump.jpg
+newmtl FlatRoofTexture_1
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd flatroof8.png
+newmtl Railing_1
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.3stories_7tiles.jpg
+newmtl Facade_22
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_2tiles.jpg
+  bump -bm 1 ven.2stories_2tiles.bump.jpg
+ map_Ks ven.2stories_2tiles.bump.jpg
+newmtl Facade_23
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_9tiles.jpg
+  bump -bm 1 ven.2stories_9tiles.bump.jpg
+ map_Ks ven.2stories_9tiles.bump.jpg
+newmtl Facade_25
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_3tiles.jpg
+  bump -bm 1 ven.2stories_3tiles.bump.jpg
+ map_Ks ven.2stories_3tiles.bump.jpg
+newmtl Facade_18
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_9tiles.jpg
+  bump -bm 1 ven.2stories_9tiles.bump.jpg
+ map_Ks ven.2stories_9tiles.bump.jpg
+newmtl Railing_9
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.2stories_9tiles.jpg
+newmtl Railing_12
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.5stories_4tiles.jpg
+newmtl Facade_21
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.5stories_4tiles.jpg
+  bump -bm 1 ven.5stories_4tiles.bump.jpg
+ map_Ks ven.5stories_4tiles.bump.jpg
+newmtl Facade_10
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.4stories_5tiles.jpg
+  bump -bm 1 ven.4stories_5tiles.bump.jpg
+ map_Ks ven.4stories_5tiles.bump.jpg
+newmtl RoofPlane_6
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd rooftile.color.6.jpg
+  bump -bm 0.5 rooftile.bump.jpg
+newmtl FacadeColor_1
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.3stories_6tiles.jpg
+newmtl Facade_8
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_6tiles.jpg
+  bump -bm 1 ven.3stories_6tiles.bump.jpg
+ map_Ks ven.3stories_6tiles.bump.jpg
+newmtl RoofPlane_4
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd rooftile.color.8.jpg
+  bump -bm 0.5 rooftile.bump.jpg
+newmtl Facade_5
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.3stories_9tiles.jpg
+  bump -bm 1 ven.3stories_9tiles.bump.jpg
+ map_Ks ven.3stories_9tiles.bump.jpg
+newmtl model_material_20_4_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture10.jpg
+newmtl Facade_24
+    Kd 0.466667 0.466667 0.466667
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.5stories_4tiles.jpg
+  bump -bm 1 ven.5stories_4tiles.bump.jpg
+ map_Ks ven.5stories_4tiles.bump.jpg
+newmtl model_material_11_15_8SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd texture6.jpg
+newmtl RoofPlane_8
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd rooftile.color.5.jpg
+  bump -bm 0.5 rooftile.bump.jpg
+newmtl lambert3SG
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd tree_texture.png
+newmtl lambert2SG
+    Kd 0.4 0.27 0.18
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+newmtl Facade_1
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 4
+    Ks 0.5 0.5 0.5
+    Ns 20
+ map_Kd ven.2stories_7tiles.jpg
+  bump -bm 1 ven.2stories_7tiles.bump.jpg
+ map_Ks ven.2stories_7tiles.bump.jpg
+newmtl FlatRoofTexture
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd flatroof5.png
+newmtl Railing
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd ven.2stories_7tiles.jpg
+newmtl RoofPlane_2
+    Kd 1 1 1
+    Ka 0 0 0
+     d 1
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+ illum 3
+    Ks 0 0 0
+    Ns 0
+ map_Kd rooftile.color.7.jpg
+  bump -bm 0.5 rooftile.bump.jpg

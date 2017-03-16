@@ -1,0 +1,26 @@
+﻿生成启动时间为 7/6/2016 21:25:03。
+     1>项目“E:\OGL\ogldev-source\Windows\ogldev\Common.vcxproj”在节点 2 上(Build 个目标)。
+     1>Lib:
+         D:\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\OGL\ogldev-source\Windows\ogldev\Debug\Common.lib" /NOLOGO Debug\camera.obj
+         Debug\cubemap_texture.obj
+         Debug\glut_backend.obj
+         Debug\io_buffer.obj
+         Debug\math_3d.obj
+         Debug\ogldev_atb.obj
+         Debug\ogldev_backend.obj
+         Debug\ogldev_basic_lighting.obj
+         Debug\ogldev_basic_mesh.obj
+         Debug\ogldev_glfw_backend.obj
+         Debug\ogldev_shadow_map_fbo.obj
+         Debug\ogldev_skinned_mesh.obj
+         Debug\ogldev_texture.obj
+         Debug\ogldev_util.obj
+         Debug\pipeline.obj
+         Debug\random_texture.obj
+         Debug\technique.obj
+         Common.vcxproj -> E:\OGL\ogldev-source\Windows\ogldev\Debug\Common.lib
+     1>已完成生成项目“E:\OGL\ogldev-source\Windows\ogldev\Common.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.14

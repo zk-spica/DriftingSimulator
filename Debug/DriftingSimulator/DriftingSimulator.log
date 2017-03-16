@@ -1,0 +1,75 @@
+﻿生成启动时间为 3/16/2017 22:28:46。
+     1>项目“M:\DriftingSimulator\DriftingSimulator.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"M:\DriftingSimulator\\Include\ImageMagick-6" /IM:\DriftingSimulator\\Include\ATB /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\DriftingSimulator\\" /Fd"Debug\DriftingSimulator\vc120.pdb" /Gd /TP /wd4251 /wd4819 /analyze- /errorReport:prompt DriftingSimulator\lighting_technique.cpp DriftingSimulator\mesh.cpp DriftingSimulator\shadow_map_technique.cpp DriftingSimulator\skybox.cpp DriftingSimulator\skybox_technique.cpp DriftingSimulator\main.cpp
+         main.cpp
+     1>m:\driftingsimulator\include\ogldev_math_3d.h(82): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(271): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(272): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(436): warning C4305: “参数”: 从“double”到“float”截断
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(438): warning C4305: “参数”: 从“double”到“float”截断
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(455): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(465): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(473): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(481): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(490): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(502): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(525): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 12.0\vc\include\stdio.h(230) : 参见“fscanf”的声明
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(538): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 12.0\vc\include\stdio.h(230) : 参见“fscanf”的声明
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(599): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(605): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(606): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(618): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(622): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(623): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(625): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(734): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(735): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(736): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(737): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(755): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(756): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(778): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(779): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(780): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(781): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(811): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(816): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(820): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(825): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(872): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(879): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(886): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(955): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(978): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(1000): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(1102): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         skybox_technique.cpp
+     1>m:\driftingsimulator\include\ogldev_math_3d.h(82): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+         skybox.cpp
+     1>m:\driftingsimulator\include\ogldev_math_3d.h(82): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+         shadow_map_technique.cpp
+     1>m:\driftingsimulator\include\ogldev_math_3d.h(82): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+         mesh.cpp
+     1>m:\driftingsimulator\include\ogldev_math_3d.h(82): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+         lighting_technique.cpp
+     1>m:\driftingsimulator\include\ogldev_math_3d.h(82): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+         正在生成代码...
+     1>m:\driftingsimulator\driftingsimulator\main.cpp(313): warning C4715: “Tutorial22::intersect_ChunkLine”: 不是所有的控件路径都返回值
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"M:\DriftingSimulator\Debug\DriftingSimulator.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:M:\DriftingSimulator\/Debug /LIBPATH:M:\DriftingSimulator\/Lib Common.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib glew32.lib assimp.lib CORE_DB_Magick++_.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"M:\DriftingSimulator\Debug\DriftingSimulator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"M:\DriftingSimulator\Debug\DriftingSimulator.lib" /MACHINE:X86 Debug\DriftingSimulator\lighting_technique.obj
+         Debug\DriftingSimulator\mesh.obj
+         Debug\DriftingSimulator\shadow_map_technique.obj
+         Debug\DriftingSimulator\skybox.obj
+         Debug\DriftingSimulator\skybox_technique.obj
+         Debug\DriftingSimulator\main.obj
+     1>lighting_technique.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+         DriftingSimulator.vcxproj -> M:\DriftingSimulator\Debug\DriftingSimulator.exe
+     1>已完成生成项目“M:\DriftingSimulator\DriftingSimulator.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.92

@@ -1,0 +1,49 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+
+#
+newmtl Chrome
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.1
+illum 2
+#
+newmtl BRAKDISC
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.5
+illum 2
+map_Kd BRAKDISC.jpg
+#
+newmtl Tread
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.3
+illum 2
+map_Kd TREAD_MI.jpg
+bump TREAD_MI.jpg
+#
+newmtl TIRE-chrome
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.2
+illum 2
+map_Kd BMWM3GTRE46_TIRE.jpg
+#
+newmtl TIRE
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.3
+illum 2
+map_Kd BMWM3GTRE46_TIRE.jpg
+#
+# EOF
